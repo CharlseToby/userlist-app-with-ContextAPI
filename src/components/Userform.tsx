@@ -23,7 +23,7 @@ const Userform = () => {
       <form action="" onSubmit={handleSubmit} className="form">
         <input type="text" placeholder='name' value={name} onChange={(e) => setName(e.target.value)} required />
         <input type="number" placeholder="age" value={age} onChange={(e) => setAge(e.target.value)} required />
-        <input type="text" placeholder="bio" value={bio} onChange={(e) => setBio(e.target.value)} required />
+        <textarea placeholder="bio" value={bio} onChange={(e) => setBio(e.target.value)} required></textarea>
         <button type='submit'>New User</button>
       </form>
     </div>

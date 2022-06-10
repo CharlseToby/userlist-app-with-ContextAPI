@@ -20,9 +20,14 @@ body {
   .new-user{
     display: flex;
     flex-direction: column;
+    width: 300px;
+    padding: 5px 8px;
+    margin: 0 5px;
     
     .form{
       display: flex;
+      margin: 0 5px;
+      // width: 300px;
       flex-direction: column;
       row-gap: 0.3em;
 
@@ -31,8 +36,12 @@ body {
         border-radius: 5px;
         outline: none;
       }
+      textarea{
+        height: 40px;
+      }
 
       button{
+        // margin-top: 10px;
         align-self: flex-start;
         width: 90px;
         height: 30px;
