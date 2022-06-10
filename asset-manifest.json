@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/userlist-app-with-ContextAPI/static/css/main.59983b10.css",
+    "main.js": "/userlist-app-with-ContextAPI/static/js/main.62d98a44.js",
+    "static/js/787.8bad5a71.chunk.js": "/userlist-app-with-ContextAPI/static/js/787.8bad5a71.chunk.js",
+    "index.html": "/userlist-app-with-ContextAPI/index.html",
+    "main.59983b10.css.map": "/userlist-app-with-ContextAPI/static/css/main.59983b10.css.map",
+    "main.62d98a44.js.map": "/userlist-app-with-ContextAPI/static/js/main.62d98a44.js.map",
+    "787.8bad5a71.chunk.js.map": "/userlist-app-with-ContextAPI/static/js/787.8bad5a71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59983b10.css",
+    "static/js/main.62d98a44.js"
+  ]
+}
