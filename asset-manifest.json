@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/userlist-app-with-ContextAPI/static/css/main.59983b10.css",
-    "main.js": "/userlist-app-with-ContextAPI/static/js/main.62d98a44.js",
+    "main.css": "/userlist-app-with-ContextAPI/static/css/main.036d4797.css",
+    "main.js": "/userlist-app-with-ContextAPI/static/js/main.2bc6bfa1.js",
     "static/js/787.8bad5a71.chunk.js": "/userlist-app-with-ContextAPI/static/js/787.8bad5a71.chunk.js",
     "index.html": "/userlist-app-with-ContextAPI/index.html",
-    "main.59983b10.css.map": "/userlist-app-with-ContextAPI/static/css/main.59983b10.css.map",
-    "main.62d98a44.js.map": "/userlist-app-with-ContextAPI/static/js/main.62d98a44.js.map",
+    "main.036d4797.css.map": "/userlist-app-with-ContextAPI/static/css/main.036d4797.css.map",
+    "main.2bc6bfa1.js.map": "/userlist-app-with-ContextAPI/static/js/main.2bc6bfa1.js.map",
     "787.8bad5a71.chunk.js.map": "/userlist-app-with-ContextAPI/static/js/787.8bad5a71.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.59983b10.css",
-    "static/js/main.62d98a44.js"
+    "static/css/main.036d4797.css",
+    "static/js/main.2bc6bfa1.js"
   ]
 }
