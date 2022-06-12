@@ -6,7 +6,7 @@ type userProps = {
 }
 
 const User = (user : userProps) => {
-  const {removeUser} = useContext(UserContext);
+  const {dispatch} = useContext(UserContext);
   const { name, age, bio, id } = user.user; 
 
   return (
@@ -14,7 +14,7 @@ const User = (user : userProps) => {
       <h2>{name}</h2>
       <h3>{age}</h3>
       <p>{bio}</p>
-      <button onClick={() => removeUser(id)}>Delete User</button>
+      <button onClick={() => dispatch({type: "REMOVE_USER", user: {name, age, bio, id}})}>Delete User</button>
     </div>
   )
 }

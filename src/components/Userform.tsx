@@ -8,11 +8,11 @@ const Userform = () => {
   const [ bio, setBio ] = useState("");
 
   
-  const {addUser} = useContext(UserContext);
+  const {dispatch} = useContext(UserContext);
 
   const handleSubmit = (e : React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    addUser({name, age : parseFloat(age), bio});
+    dispatch({type: "ADD_USER", user: {name, age : parseFloat(age), bio}});
     setName("");
     setAge("");
     setBio("");
