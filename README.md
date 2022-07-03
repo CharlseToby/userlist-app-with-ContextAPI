@@ -1,3 +1,17 @@
+Link to live site: https://charlsetoby.github.io/userlist-app-with-ContextAPI/
+
+Build a simple user list application using context API
+
+  It lets you add a user to the list of users and also remove users.
+  
+  It is a single page application.
+  
+Technologies used: ContextAPI, Hooks, Typescrpt, SCSS
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
